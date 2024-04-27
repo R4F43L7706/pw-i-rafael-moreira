@@ -1,0 +1,17 @@
+h1 { border: 50%;
+    color: rgb(220, 20, 60);
+}
+
+.minhaImagem {
+    width: 20%;
+    border-radius: 50%;
+    border: 50%;
+}
+
+#paragrafo{
+    font-size: 2rem;
+}
+
+background{
+    background-color: coral;
+}
